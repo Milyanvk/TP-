@@ -1,0 +1,2 @@
+def filtrer(fonction,liste):
+    

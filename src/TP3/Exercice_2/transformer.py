@@ -1,0 +1,1 @@
+def transformer(fonction,liste)
